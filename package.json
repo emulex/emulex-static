@@ -1,0 +1,21 @@
+{
+    "name": "emulex-static",
+    "version": "0.1.0",
+    "description": "the emulex static data",
+    "main": "lib/static.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/emulex/emulex-static.git"
+    },
+    "author": "Centny",
+    "license": "BSD",
+    "dependencies": {},
+    "devDependencies": {},
+    "bugs": {
+        "url": "https://github.com/emulex/emulex-static/issues"
+    },
+    "homepage": "https://github.com/emulex/emulex-static",
+    "keywords": [
+        "emulex"
+    ]
+}
