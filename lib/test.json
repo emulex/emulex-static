@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "addr": "14.23.162.173",
+            "port": 4122,
+            "name": "emulex test server",
+            "type": 100,
+            "protocol": 100
+        }
+    ],
+    "nodes": []
+}
